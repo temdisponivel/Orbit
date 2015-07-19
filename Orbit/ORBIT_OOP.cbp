@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ORBIT_OOP" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="ORBIT_OOP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+					<Add directory="SDL" />
+				</Compiler>
+				<Linker>
+					<Add option="-lmingw32 -lSDLmain -lSDL -lSDL_gfx -lSDL_ttf  -lSDL_image" />
+					<Add directory="SDL" />
+					<Add directory="include" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="ORBIT_OOP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+					<Add directory="SDL" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-lmingw32 -lSDLmain -lSDL -lSDL_gfx -lSDL_ttf  -lSDL_image" />
+					<Add directory="SDL" />
+					<Add directory="include" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add option="-lmingw32 -lSDLmain -lSDL -lSDL_gfx -lSDL_ttf" />
+		</Linker>
+		<Unit filename="include/Boss.h" />
+		<Unit filename="include/CORES.h" />
+		<Unit filename="include/Configuracoes.h" />
+		<Unit filename="include/Estruturas.h" />
+		<Unit filename="include/Fase.h" />
+		<Unit filename="include/FaseMenu.h" />
+		<Unit filename="include/FaseMorte.h" />
+		<Unit filename="include/Game.h" />
+		<Unit filename="include/GameObject.h" />
+		<Unit filename="include/Headers.h" />
+		<Unit filename="include/Inimigo.h" />
+		<Unit filename="include/MenuPrincipal.h" />
+		<Unit filename="include/Nave.h" />
+		<Unit filename="include/Planeta.h" />
+		<Unit filename="include/PrimeiraFase.h" />
+		<Unit filename="include/Timer.h" />
+		<Unit filename="include/Tiro.h" />
+		<Unit filename="src/Boss.cpp" />
+		<Unit filename="src/Configuracoes.cpp" />
+		<Unit filename="src/Fase.cpp" />
+		<Unit filename="src/FaseMenu.cpp" />
+		<Unit filename="src/FaseMorte.cpp" />
+		<Unit filename="src/Game.cpp" />
+		<Unit filename="src/GameObject.cpp" />
+		<Unit filename="src/Inimigo.cpp" />
+		<Unit filename="src/JogoPrincipal.cpp" />
+		<Unit filename="src/MenuPrincipal.cpp" />
+		<Unit filename="src/Nave.cpp" />
+		<Unit filename="src/Planeta.cpp" />
+		<Unit filename="src/PrimeiraFase.cpp" />
+		<Unit filename="src/Timer.cpp" />
+		<Unit filename="src/Tiro.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

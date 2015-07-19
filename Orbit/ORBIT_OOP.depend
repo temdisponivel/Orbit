@@ -1,0 +1,1710 @@
+# depslib dependency file v1.0
+1414949776 source:d:\programas\c++\spaceinvaders\jogoprincipal.cpp
+	<iostream>
+	"Estruturas.h"
+	"Sprite.h"
+
+1414950036 source:d:\programas\c++\spaceinvaders\src\sprite.cpp
+	"Sprite.h"
+	<SDL/SDL_image.h>
+
+1414947645 d:\programas\c++\spaceinvaders\include\sprite.h
+	<SDL/SDL.h>
+	"Estruturas.h"
+
+1414857153 d:\programas\c++\spaceinvaders\include\headers.h
+	<iostream>
+	"Estruturas.h"
+	"Sprite.h"
+
+1414855988 d:\programas\c++\spaceinvaders\estruturas.h
+
+1414944820 d:\programas\c++\spaceinvaders\include\estruturas.h
+
+1414857983 source:d:\programas\c++\spaceinvaders\src\planeta.cpp
+	"Planeta.h"
+
+1414857914 d:\programas\c++\spaceinvaders\include\planeta.h
+	<Sprite.h>
+
+1414949776 source:d:\programas\c++\orbit_oop\jogoprincipal.cpp
+	<iostream>
+	"Estruturas.h"
+	"Sprite.h"
+
+1415203556 d:\programas\c++\orbit_oop\include\estruturas.h
+	<SDL/SDL.h>
+
+1414956629 d:\programas\c++\orbit_oop\include\sprite.h
+	<SDL/SDL.h>
+	"SDL/SDL_image.h"
+	<SDL/SDL_gfxPrimitives.h>
+	"Estruturas.h"
+
+1414968702 source:d:\programas\c++\orbit_oop\src\planeta.cpp
+	"Planeta.h"
+
+1414964099 d:\programas\c++\orbit_oop\include\planeta.h
+	"GameObject.h"
+
+1414956698 source:d:\programas\c++\orbit_oop\src\sprite.cpp
+	"Sprite.h"
+
+1415168782 source:d:\programas\c++\orbit_oop\src\jogoprincipal.cpp
+	<iostream>
+	"Game.h"
+	"Intro.h"
+
+1415209221 source:d:\programas\c++\orbit_oop\src\game.cpp
+	"Game.h"
+
+1415209198 d:\programas\c++\orbit_oop\include\game.h
+	<SDL/SDL.h>
+	"Headers.h"
+	"Estruturas.h"
+	"Fase.h"
+	"FaseMenu.h"
+	<fstream>
+
+1414970531 d:\programas\c++\orbit_oop\include\timer.h
+	<SDL/SDL.h>
+
+1415208343 d:\programas\c++\orbit_oop\include\gameobject.h
+	<SDL/SDL.h>
+	"SDL/SDL_image.h"
+	<SDL/SDL_gfxPrimitives.h>
+	"Estruturas.h"
+	<math.h>
+
+1415203913 source:d:\programas\c++\orbit_oop\src\gameobject.cpp
+	"GameObject.h"
+
+1415166318 d:\programas\c++\orbit_oop\include\headers.h
+	"Estruturas.h"
+	<SDL/SDL.h>
+	<SDL/SDL_gfxPrimitives.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_rotozoom.h>
+	"CORES.h"
+	<iostream>
+	<math.h>
+	"Timer.h"
+
+1414981067 source:d:\programas\c++\orbit_oop\src\timer.cpp
+	"Timer.h"
+
+1415169476 d:\programas\c++\orbit_oop\include\cores.h
+
+1415208575 source:d:\programas\c++\orbit_oop\src\fase.cpp
+	"Fase.h"
+
+1415202478 d:\programas\c++\orbit_oop\include\fase.h
+	"GameObject.h"
+
+1415208320 d:\programas\c++\orbit_oop\include\primeirafase.h
+	"Game.h"
+	"Fase.h"
+	"Nave.h"
+
+1415208357 source:d:\programas\c++\orbit_oop\src\primeirafase.cpp
+	"PrimeiraFase.h"
+
+1415169423 source:d:\programas\c++\orbit_oop\src\fasemenu.cpp
+	"FaseMenu.h"
+
+1415165921 d:\programas\c++\orbit_oop\include\fasemenu.h
+	"Fase.h"
+
+1415169473 source:d:\programas\c++\orbit_oop\src\intro.cpp
+	"Intro.h"
+
+1415166691 d:\programas\c++\orbit_oop\include\intro.h
+	"Fase.h"
+	"Game.h"
+	"MenuPrincipal.h"
+
+1415166915 d:\programas\c++\orbit_oop\include\menuprincipal.h
+	"Fase.h"
+	"PrimeiraFase.h"
+	"Game.h"
+
+1415169407 source:d:\programas\c++\orbit_oop\src\menuprincipal.cpp
+	"MenuPrincipal.h"
+
+1415205369 source:d:\programas\c++\orbit_oop\src\nave.cpp
+	"Nave.h"
+
+1415204450 d:\programas\c++\orbit_oop\include\nave.h
+	"Game.h"
+	"GameObject.h"
+	"Timer.h"
+
+1415339474 source:d:\programas\c++\orbit_oopv6\src\fase.cpp
+	"Fase.h"
+
+1415380629 d:\programas\c++\orbit_oopv6\include\fase.h
+	"GameObject.h"
+
+1415330896 d:\programas\c++\orbit_oopv6\include\gameobject.h
+	<SDL/SDL.h>
+	"SDL/SDL_image.h"
+	<SDL/SDL_gfxPrimitives.h>
+	"Estruturas.h"
+	<math.h>
+
+1415301775 d:\programas\c++\orbit_oopv6\include\estruturas.h
+	<SDL/SDL.h>
+
+1415292956 source:d:\programas\c++\orbit_oopv6\src\fasemenu.cpp
+	"FaseMenu.h"
+
+1415292925 d:\programas\c++\orbit_oopv6\include\fasemenu.h
+	"Fase.h"
+
+1415306059 source:d:\programas\c++\orbit_oopv6\src\game.cpp
+	"Game.h"
+	"Intro.h"
+
+1415292175 d:\programas\c++\orbit_oopv6\include\game.h
+	<SDL/SDL.h>
+	"Headers.h"
+	"Estruturas.h"
+	"Fase.h"
+	"FaseMenu.h"
+	<fstream>
+
+1415166320 d:\programas\c++\orbit_oopv6\include\headers.h
+	"Estruturas.h"
+	<SDL/SDL.h>
+	<SDL/SDL_gfxPrimitives.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_rotozoom.h>
+	"CORES.h"
+	<iostream>
+	<math.h>
+	"Timer.h"
+
+1415247988 d:\programas\c++\orbit_oopv6\include\cores.h
+
+1414970532 d:\programas\c++\orbit_oopv6\include\timer.h
+	<SDL/SDL.h>
+
+1415330970 source:d:\programas\c++\orbit_oopv6\src\gameobject.cpp
+	"GameObject.h"
+
+1415291654 source:d:\programas\c++\orbit_oopv6\src\intro.cpp
+	"Intro.h"
+
+1415166692 d:\programas\c++\orbit_oopv6\include\intro.h
+	"Fase.h"
+	"Game.h"
+	"MenuPrincipal.h"
+
+1415166916 d:\programas\c++\orbit_oopv6\include\menuprincipal.h
+	"Fase.h"
+	"PrimeiraFase.h"
+	"Game.h"
+
+1415291214 d:\programas\c++\orbit_oopv6\include\primeirafase.h
+	"Game.h"
+	"Fase.h"
+	"Nave.h"
+	"Planeta.h"
+
+1415330928 d:\programas\c++\orbit_oopv6\include\nave.h
+	"Game.h"
+	"GameObject.h"
+	"Timer.h"
+
+1415246181 source:d:\programas\c++\orbit_oopv6\src\jogoprincipal.cpp
+	<iostream>
+	"Game.h"
+	"Intro.h"
+
+1415291669 source:d:\programas\c++\orbit_oopv6\src\menuprincipal.cpp
+	"MenuPrincipal.h"
+
+1415333763 source:d:\programas\c++\orbit_oopv6\src\nave.cpp
+	"Nave.h"
+
+1415341329 source:d:\programas\c++\orbit_oopv6\src\primeirafase.cpp
+	"PrimeiraFase.h"
+
+1414981068 source:d:\programas\c++\orbit_oopv6\src\timer.cpp
+	"Timer.h"
+
+1415341449 d:\programas\c++\orbit_oopv6\include\planeta.h
+	"Game.h"
+	"GameObject.h"
+
+1415341460 source:d:\programas\c++\orbit_oopv6\src\planeta.cpp
+	"Planeta.h"
+
+1415401130 source:c:\users\victor.dsavariego\desktop\orbit_oopv6\src\gameobject.cpp
+	"GameObject.h"
+
+1415397799 c:\users\victor.dsavariego\desktop\orbit_oopv6\include\gameobject.h
+	<SDL/SDL.h>
+	"SDL/SDL_image.h"
+	<SDL/SDL_gfxPrimitives.h>
+	"Estruturas.h"
+	<math.h>
+
+1415400186 c:\users\victor.dsavariego\desktop\orbit_oopv6\include\estruturas.h
+	<SDL/SDL.h>
+
+1415396681 source:c:\users\victor.dsavariego\desktop\orbit_oopv6\src\intro.cpp
+	"Intro.h"
+
+1415396680 c:\users\victor.dsavariego\desktop\orbit_oopv6\include\intro.h
+	"Fase.h"
+	"Game.h"
+	"MenuPrincipal.h"
+
+1415396680 c:\users\victor.dsavariego\desktop\orbit_oopv6\include\fase.h
+	"GameObject.h"
+
+1415396680 c:\users\victor.dsavariego\desktop\orbit_oopv6\include\game.h
+	<SDL/SDL.h>
+	"Headers.h"
+	"Estruturas.h"
+	"Fase.h"
+	"FaseMenu.h"
+	<fstream>
+
+1415396680 c:\users\victor.dsavariego\desktop\orbit_oopv6\include\headers.h
+	"Estruturas.h"
+	<SDL/SDL.h>
+	<SDL/SDL_gfxPrimitives.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_rotozoom.h>
+	"CORES.h"
+	<iostream>
+	<math.h>
+	"Timer.h"
+
+1415396680 c:\users\victor.dsavariego\desktop\orbit_oopv6\include\cores.h
+
+1415396680 c:\users\victor.dsavariego\desktop\orbit_oopv6\include\timer.h
+	<SDL/SDL.h>
+
+1415396680 c:\users\victor.dsavariego\desktop\orbit_oopv6\include\fasemenu.h
+	"Fase.h"
+
+1415396680 c:\users\victor.dsavariego\desktop\orbit_oopv6\include\menuprincipal.h
+	"Fase.h"
+	"PrimeiraFase.h"
+	"Game.h"
+
+1415396680 c:\users\victor.dsavariego\desktop\orbit_oopv6\include\primeirafase.h
+	"Game.h"
+	"Fase.h"
+	"Nave.h"
+	"Planeta.h"
+
+1415400119 c:\users\victor.dsavariego\desktop\orbit_oopv6\include\nave.h
+	"Game.h"
+	"GameObject.h"
+	"Timer.h"
+
+1415396680 c:\users\victor.dsavariego\desktop\orbit_oopv6\include\planeta.h
+	"Game.h"
+	"GameObject.h"
+
+1415396681 source:c:\users\victor.dsavariego\desktop\orbit_oopv6\src\jogoprincipal.cpp
+	<iostream>
+	"Game.h"
+	"Intro.h"
+
+1415396681 source:c:\users\victor.dsavariego\desktop\orbit_oopv6\src\menuprincipal.cpp
+	"MenuPrincipal.h"
+
+1415402524 source:c:\users\victor.dsavariego\desktop\orbit_oopv6\src\nave.cpp
+	"Nave.h"
+
+1415402063 source:c:\users\victor.dsavariego\desktop\orbit_oopv6\src\planeta.cpp
+	"Planeta.h"
+
+1415396681 source:c:\users\victor.dsavariego\desktop\orbit_oopv6\src\timer.cpp
+	"Timer.h"
+
+1415397277 source:c:\users\victor.dsavariego\desktop\orbit_oopv6\src\fase.cpp
+	"Fase.h"
+
+1415396681 source:c:\users\victor.dsavariego\desktop\orbit_oopv6\src\fasemenu.cpp
+	"FaseMenu.h"
+
+1415399180 source:c:\users\victor.dsavariego\desktop\orbit_oopv6\src\game.cpp
+	"Game.h"
+	"Intro.h"
+
+1415402416 source:c:\users\victor.dsavariego\desktop\orbit_oopv6\src\primeirafase.cpp
+	"PrimeiraFase.h"
+
+1416354799 source:c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\src\primeirafase.cpp
+	"PrimeiraFase.h"
+
+1416354062 c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\include\primeirafase.h
+	"Game.h"
+	"Fase.h"
+	"Nave.h"
+	"Planeta.h"
+
+1416347464 c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\include\game.h
+	<SDL/SDL.h>
+	"Headers.h"
+	"Estruturas.h"
+	"Fase.h"
+	"FaseMenu.h"
+	<fstream>
+
+1416347464 c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\include\headers.h
+	"Estruturas.h"
+	<SDL/SDL.h>
+	<SDL/SDL_gfxPrimitives.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_rotozoom.h>
+	"CORES.h"
+	<iostream>
+	<math.h>
+	"Timer.h"
+
+1416351058 c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\include\estruturas.h
+	<SDL/SDL.h>
+
+1416347464 c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\include\cores.h
+
+1416347464 c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\include\timer.h
+	<SDL/SDL.h>
+
+1416354219 c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\include\fase.h
+	"GameObject.h"
+
+1416351072 c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\include\gameobject.h
+	<SDL/SDL.h>
+	"SDL/SDL_image.h"
+	<SDL/SDL_gfxPrimitives.h>
+	"Estruturas.h"
+	<math.h>
+
+1416347464 c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\include\fasemenu.h
+	"Fase.h"
+
+1416348558 c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\include\nave.h
+	"Game.h"
+	"GameObject.h"
+	"Timer.h"
+
+1416347464 c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\include\planeta.h
+	"Game.h"
+	"GameObject.h"
+
+1416347465 source:c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\src\timer.cpp
+	"Timer.h"
+
+1416354109 source:c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\src\fase.cpp
+	"Fase.h"
+
+1416347465 source:c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\src\fasemenu.cpp
+	"FaseMenu.h"
+
+1416354751 source:c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\src\game.cpp
+	"Game.h"
+	"Intro.h"
+
+1416347464 c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\include\intro.h
+	"Fase.h"
+	"Game.h"
+	"MenuPrincipal.h"
+
+1416347464 c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\include\menuprincipal.h
+	"Fase.h"
+	"PrimeiraFase.h"
+	"Game.h"
+
+1416351093 source:c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\src\gameobject.cpp
+	"GameObject.h"
+
+1416347465 source:c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\src\intro.cpp
+	"Intro.h"
+
+1416347465 source:c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\src\jogoprincipal.cpp
+	<iostream>
+	"Game.h"
+	"Intro.h"
+
+1416347465 source:c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\src\menuprincipal.cpp
+	"MenuPrincipal.h"
+
+1416351476 source:c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\src\planeta.cpp
+	"Planeta.h"
+
+1416355186 source:c:\users\victor.dsavariego\desktop\orbit_oop-master\orbit_oopv7\src\nave.cpp
+	"Nave.h"
+
+1416599885 source:d:\programas\c++\orbit_oop-master\orbit_oopv7\src\fase.cpp
+	"Fase.h"
+
+1416603189 d:\programas\c++\orbit_oop-master\orbit_oopv7\include\fase.h
+	"GameObject.h"
+
+1416602683 d:\programas\c++\orbit_oop-master\orbit_oopv7\include\gameobject.h
+	<SDL/SDL.h>
+	"SDL/SDL_image.h"
+	<SDL/SDL_gfxPrimitives.h>
+	"Estruturas.h"
+	<math.h>
+
+1416456675 d:\programas\c++\orbit_oop-master\orbit_oopv7\include\estruturas.h
+	<SDL/SDL.h>
+
+1416351066 source:d:\programas\c++\orbit_oop-master\orbit_oopv7\src\fasemenu.cpp
+	"FaseMenu.h"
+
+1416351066 d:\programas\c++\orbit_oop-master\orbit_oopv7\include\fasemenu.h
+	"Fase.h"
+
+1416457470 source:d:\programas\c++\orbit_oop-master\orbit_oopv7\src\game.cpp
+	"Game.h"
+	"Intro.h"
+
+1416457430 d:\programas\c++\orbit_oop-master\orbit_oopv7\include\game.h
+	<SDL/SDL.h>
+	"Headers.h"
+	"Estruturas.h"
+	"Fase.h"
+	"FaseMenu.h"
+	<fstream>
+
+1416351066 d:\programas\c++\orbit_oop-master\orbit_oopv7\include\headers.h
+	"Estruturas.h"
+	<SDL/SDL.h>
+	<SDL/SDL_gfxPrimitives.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_rotozoom.h>
+	"CORES.h"
+	<iostream>
+	<math.h>
+	"Timer.h"
+
+1416351066 d:\programas\c++\orbit_oop-master\orbit_oopv7\include\cores.h
+
+1416351066 d:\programas\c++\orbit_oop-master\orbit_oopv7\include\timer.h
+	<SDL/SDL.h>
+
+1416376020 d:\programas\c++\orbit_oop-master\orbit_oopv7\include\intro.h
+	"Fase.h"
+	"Game.h"
+	"MenuPrincipal.h"
+
+1416376020 d:\programas\c++\orbit_oop-master\orbit_oopv7\include\menuprincipal.h
+	"Fase.h"
+	"PrimeiraFase.h"
+	"Game.h"
+
+1416594377 d:\programas\c++\orbit_oop-master\orbit_oopv7\include\primeirafase.h
+	"Game.h"
+	"Fase.h"
+	"Nave.h"
+	"Inimigo.h"
+	"Planeta.h"
+
+1416377400 d:\programas\c++\orbit_oop-master\orbit_oopv7\include\nave.h
+	"Game.h"
+	"GameObject.h"
+	"Timer.h"
+	"Tiro.h"
+
+1416376020 d:\programas\c++\orbit_oop-master\orbit_oopv7\include\planeta.h
+	"Game.h"
+	"GameObject.h"
+
+1416602869 source:d:\programas\c++\orbit_oop-master\orbit_oopv7\src\gameobject.cpp
+	"GameObject.h"
+
+1416376018 source:d:\programas\c++\orbit_oop-master\orbit_oopv7\src\intro.cpp
+	"Intro.h"
+
+1416351066 source:d:\programas\c++\orbit_oop-master\orbit_oopv7\src\jogoprincipal.cpp
+	<iostream>
+	"Game.h"
+	"Intro.h"
+
+1416376018 source:d:\programas\c++\orbit_oop-master\orbit_oopv7\src\menuprincipal.cpp
+	"MenuPrincipal.h"
+
+1416602508 source:d:\programas\c++\orbit_oop-master\orbit_oopv7\src\nave.cpp
+	"Nave.h"
+
+1416602514 source:d:\programas\c++\orbit_oop-master\orbit_oopv7\src\planeta.cpp
+	"Planeta.h"
+
+1416601522 source:d:\programas\c++\orbit_oop-master\orbit_oopv7\src\primeirafase.cpp
+	"PrimeiraFase.h"
+
+1416351066 source:d:\programas\c++\orbit_oop-master\orbit_oopv7\src\timer.cpp
+	"Timer.h"
+
+1416602152 d:\programas\c++\orbit_oop-master\orbit_oopv7\include\tiro.h
+	"Game.h"
+	"GameObject.h"
+	"Timer.h"
+
+1416603342 source:d:\programas\c++\orbit_oop-master\orbit_oopv7\src\tiro.cpp
+	"Tiro.h"
+
+1416423902 source:c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\src\fase.cpp
+	"Fase.h"
+
+1416424452 c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\include\fase.h
+	"GameObject.h"
+
+1416424994 c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\include\gameobject.h
+	<SDL/SDL.h>
+	"SDL/SDL_image.h"
+	<SDL/SDL_gfxPrimitives.h>
+	"Estruturas.h"
+	<math.h>
+
+1416437189 c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\include\estruturas.h
+	<SDL/SDL.h>
+
+1416347466 source:c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\src\fasemenu.cpp
+	"FaseMenu.h"
+
+1416347466 c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\include\fasemenu.h
+	"Fase.h"
+
+1416434564 source:c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\src\game.cpp
+	"Game.h"
+	"Intro.h"
+
+1416372418 c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\include\game.h
+	<SDL/SDL.h>
+	"Headers.h"
+	"Estruturas.h"
+	"Fase.h"
+	"FaseMenu.h"
+	<fstream>
+
+1416347466 c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\include\headers.h
+	"Estruturas.h"
+	<SDL/SDL.h>
+	<SDL/SDL_gfxPrimitives.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_rotozoom.h>
+	"CORES.h"
+	<iostream>
+	<math.h>
+	"Timer.h"
+
+1416347466 c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\include\cores.h
+
+1416347466 c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\include\timer.h
+	<SDL/SDL.h>
+
+1416372420 c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\include\intro.h
+	"Fase.h"
+	"Game.h"
+	"MenuPrincipal.h"
+
+1416372420 c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\include\menuprincipal.h
+	"Fase.h"
+	"PrimeiraFase.h"
+	"Game.h"
+
+1416434993 c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\include\primeirafase.h
+	"Game.h"
+	"Fase.h"
+	"Nave.h"
+	"Inimigo.h"
+	"Planeta.h"
+
+1416373800 c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\include\nave.h
+	"Game.h"
+	"GameObject.h"
+	"Timer.h"
+	"Tiro.h"
+
+1416413888 c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\include\tiro.h
+	"Game.h"
+	"GameObject.h"
+	"Timer.h"
+
+1416372420 c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\include\planeta.h
+	"Game.h"
+	"GameObject.h"
+
+1416433608 source:c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\src\gameobject.cpp
+	"GameObject.h"
+
+1416372418 source:c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\src\intro.cpp
+	"Intro.h"
+
+1416347466 source:c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\src\jogoprincipal.cpp
+	<iostream>
+	"Game.h"
+	"Intro.h"
+
+1416372418 source:c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\src\menuprincipal.cpp
+	"MenuPrincipal.h"
+
+1416435451 source:c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\src\nave.cpp
+	"Nave.h"
+
+1416424958 source:c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\src\planeta.cpp
+	"Planeta.h"
+
+1416437876 source:c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\src\primeirafase.cpp
+	"PrimeiraFase.h"
+
+1416347466 source:c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\src\timer.cpp
+	"Timer.h"
+
+1416435617 source:c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\src\tiro.cpp
+	"Tiro.h"
+
+1416435707 c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\include\inimigo.h
+	"GameObject.h"
+	"Tiro.h"
+
+1416437565 source:c:\users\matheus.aacandido\desktop\orbit_oop-master\orbit_oopv7\src\inimigo.cpp
+	"Inimigo.h"
+
+1416439308 d:\programas\c++\orbit_oop-master\orbit_oopv7\include\inimigo.h
+	"GameObject.h"
+	"Tiro.h"
+
+1416601749 source:d:\programas\c++\orbit_oop-master\orbit_oopv7\src\inimigo.cpp
+	"Inimigo.h"
+
+1417414408 source:d:\programas\c++\orbit_oop\orbit_oopv7\src\fase.cpp
+	"Fase.h"
+	"Game.h"
+
+1417464473 d:\programas\c++\orbit_oop\orbit_oopv7\include\fase.h
+	"Headers.h"
+	"GameObject.h"
+
+1417414035 d:\programas\c++\orbit_oop\orbit_oopv7\include\gameobject.h
+	"Headers.h"
+	"Estruturas.h"
+
+1417462790 d:\programas\c++\orbit_oop\orbit_oopv7\include\estruturas.h
+	"Headers.h"
+	"Timer.h"
+
+1417081337 source:d:\programas\c++\orbit_oop\orbit_oopv7\src\fasemenu.cpp
+	"FaseMenu.h"
+
+1416850697 d:\programas\c++\orbit_oop\orbit_oopv7\include\fasemenu.h
+	"Headers.h"
+	"Fase.h"
+	"Game.h"
+
+1417465465 source:d:\programas\c++\orbit_oop\orbit_oopv7\src\game.cpp
+	"Game.h"
+
+1417465494 d:\programas\c++\orbit_oop\orbit_oopv7\include\game.h
+	"Estruturas.h"
+	"Fase.h"
+	"PrimeiraFase.h"
+	"FaseMenu.h"
+	"MenuPrincipal.h"
+	"FaseMorte.h"
+	"Intro.h"
+	"Configuracoes.h"
+	"Nave.h"
+	"Tiro.h"
+	"Inimigo.h"
+
+1417149002 d:\programas\c++\orbit_oop\orbit_oopv7\include\headers.h
+	<SDL/SDL.h>
+	<SDL/SDL_gfxPrimitives.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_rotozoom.h>
+	<iostream>
+	<math.h>
+	<fstream>
+	"CORES.h"
+
+1416850274 d:\programas\c++\orbit_oop\orbit_oopv7\include\cores.h
+
+1416705411 d:\programas\c++\orbit_oop\orbit_oopv7\include\timer.h
+	"Headers.h"
+
+1416806635 d:\programas\c++\orbit_oop\orbit_oopv7\include\intro.h
+	"Headers.h"
+	"Fase.h"
+	"Game.h"
+
+1417426257 d:\programas\c++\orbit_oop\orbit_oopv7\include\menuprincipal.h
+	"Headers.h"
+	"Game.h"
+	"Timer.h"
+	"Nave.h"
+
+1417465214 d:\programas\c++\orbit_oop\orbit_oopv7\include\primeirafase.h
+	"Headers.h"
+	"Fase.h"
+	"Game.h"
+	"Nave.h"
+	"Inimigo.h"
+	"Planeta.h"
+	"GameObject.h"
+
+1417414535 d:\programas\c++\orbit_oop\orbit_oopv7\include\nave.h
+	"Headers.h"
+	"GameObject.h"
+	"Estruturas.h"
+	"Timer.h"
+	"Game.h"
+	"Tiro.h"
+
+1417329681 d:\programas\c++\orbit_oop\orbit_oopv7\include\tiro.h
+	"Headers.h"
+	"GameObject.h"
+	"Game.h"
+
+1417462833 d:\programas\c++\orbit_oop\orbit_oopv7\include\inimigo.h
+	"Headers.h"
+	"GameObject.h"
+	"Estruturas.h"
+	"Tiro.h"
+	"Game.h"
+
+1417414554 d:\programas\c++\orbit_oop\orbit_oopv7\include\planeta.h
+	"Headers.h"
+	"GameObject.h"
+	"Game.h"
+
+1417414059 source:d:\programas\c++\orbit_oop\orbit_oopv7\src\gameobject.cpp
+	"GameObject.h"
+	"Game.h"
+
+1417463714 source:d:\programas\c++\orbit_oop\orbit_oopv7\src\inimigo.cpp
+	"Inimigo.h"
+
+1416806773 source:d:\programas\c++\orbit_oop\orbit_oopv7\src\intro.cpp
+	"Intro.h"
+
+1417081924 source:d:\programas\c++\orbit_oop\orbit_oopv7\src\jogoprincipal.cpp
+	<iostream>
+	"Headers.h"
+	"Game.h"
+
+1417465991 source:d:\programas\c++\orbit_oop\orbit_oopv7\src\menuprincipal.cpp
+	"MenuPrincipal.h"
+
+1417466226 source:d:\programas\c++\orbit_oop\orbit_oopv7\src\nave.cpp
+	"Nave.h"
+
+1417414919 source:d:\programas\c++\orbit_oop\orbit_oopv7\src\planeta.cpp
+	"Planeta.h"
+
+1417466346 source:d:\programas\c++\orbit_oop\orbit_oopv7\src\primeirafase.cpp
+	"PrimeiraFase.h"
+	"Boss.h"
+
+1416351066 source:d:\programas\c++\orbit_oop\orbit_oopv7\src\timer.cpp
+	"Timer.h"
+
+1417414947 source:d:\programas\c++\orbit_oop\orbit_oopv7\src\tiro.cpp
+	"Tiro.h"
+
+1417071788 d:\programas\c++\orbit_oop\orbit_oopv7\include\fasemorte.h
+	"Headers.h"
+	"Fase.h"
+	"Game.h"
+
+1417432241 source:d:\programas\c++\orbit_oop\orbit_oopv7\src\fasemorte.cpp
+	"FaseMorte.h"
+
+1417081881 source:d:\programas\c++\orbit_oop\orbit_oopv7\src\configuracoes.cpp
+	"Configuracoes.h"
+
+1416852461 d:\programas\c++\orbit_oop\orbit_oopv7\include\configuracoes.h
+	"Fase.h"
+	"Game.h"
+
+1417463164 source:d:\programas\c++\orbit_oop\orbit_oopv7\src\boss.cpp
+	"Boss.h"
+
+1417414503 d:\programas\c++\orbit_oop\orbit_oopv7\include\boss.h
+	"GameObject.h"
+	"Game.h"
+	"Headers.h"
+	"Estruturas.h"
+	"Inimigo.h"
+
+1417081882 source:d:\programas\c++\orbit\orbit_oop\orbit_oopv7\src\configuracoes.cpp
+	"Configuracoes.h"
+
+1416852462 d:\programas\c++\orbit\orbit_oop\orbit_oopv7\include\configuracoes.h
+	"Fase.h"
+	"Game.h"
+
+1417519697 d:\programas\c++\orbit\orbit_oop\orbit_oopv7\include\fase.h
+	"Headers.h"
+	"GameObject.h"
+
+1417149004 d:\programas\c++\orbit\orbit_oop\orbit_oopv7\include\headers.h
+	<SDL/SDL.h>
+	<SDL/SDL_gfxPrimitives.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_rotozoom.h>
+	<iostream>
+	<math.h>
+	<fstream>
+	"CORES.h"
+
+1416850276 d:\programas\c++\orbit\orbit_oop\orbit_oopv7\include\cores.h
+
+1417512734 d:\programas\c++\orbit\orbit_oop\orbit_oopv7\include\gameobject.h
+	"Headers.h"
+	"Estruturas.h"
+
+1417520518 d:\programas\c++\orbit\orbit_oop\orbit_oopv7\include\estruturas.h
+	"Headers.h"
+	"Timer.h"
+
+1416705412 d:\programas\c++\orbit\orbit_oop\orbit_oopv7\include\timer.h
+	"Headers.h"
+
+1417520499 d:\programas\c++\orbit\orbit_oop\orbit_oopv7\include\game.h
+	"Estruturas.h"
+	"Fase.h"
+	"PrimeiraFase.h"
+	"FaseMenu.h"
+	"MenuPrincipal.h"
+	"FaseMorte.h"
+	"Intro.h"
+	"Configuracoes.h"
+	"Nave.h"
+	"Tiro.h"
+	"Inimigo.h"
+
+1417516881 d:\programas\c++\orbit\orbit_oop\orbit_oopv7\include\primeirafase.h
+	"Headers.h"
+	"Fase.h"
+	"Game.h"
+	"Nave.h"
+	"Inimigo.h"
+	"Planeta.h"
+	"GameObject.h"
+
+1417514491 d:\programas\c++\orbit\orbit_oop\orbit_oopv7\include\nave.h
+	"Headers.h"
+	"GameObject.h"
+	"Estruturas.h"
+	"Timer.h"
+	"Game.h"
+	"Tiro.h"
+
+1417513919 d:\programas\c++\orbit\orbit_oop\orbit_oopv7\include\tiro.h
+	"Headers.h"
+	"GameObject.h"
+	"Game.h"
+
+1417507423 d:\programas\c++\orbit\orbit_oop\orbit_oopv7\include\inimigo.h
+	"Headers.h"
+	"GameObject.h"
+	"Estruturas.h"
+	"Tiro.h"
+	"Game.h"
+
+1417513216 d:\programas\c++\orbit\orbit_oop\orbit_oopv7\include\planeta.h
+	"Headers.h"
+	"GameObject.h"
+	"Game.h"
+
+1417504076 d:\programas\c++\orbit\orbit_oop\orbit_oopv7\include\fasemenu.h
+	"Headers.h"
+	"Fase.h"
+	"Game.h"
+
+1417510254 d:\programas\c++\orbit\orbit_oop\orbit_oopv7\include\menuprincipal.h
+	"Headers.h"
+	"Game.h"
+	"Timer.h"
+	"Nave.h"
+
+1417506186 d:\programas\c++\orbit\orbit_oop\orbit_oopv7\include\fasemorte.h
+	"Headers.h"
+	"Fase.h"
+	"Game.h"
+
+1416806636 d:\programas\c++\orbit\orbit_oop\orbit_oopv7\include\intro.h
+	"Headers.h"
+	"Fase.h"
+	"Game.h"
+
+1417518660 source:d:\programas\c++\orbit\orbit_oop\orbit_oopv7\src\fase.cpp
+	"Fase.h"
+	"Game.h"
+
+1417503307 source:d:\programas\c++\orbit\orbit_oop\orbit_oopv7\src\fasemenu.cpp
+	"FaseMenu.h"
+
+1417504137 source:d:\programas\c++\orbit\orbit_oop\orbit_oopv7\src\fasemorte.cpp
+	"FaseMorte.h"
+
+1417512771 source:d:\programas\c++\orbit\orbit_oop\orbit_oopv7\src\gameobject.cpp
+	"GameObject.h"
+	"Game.h"
+
+1417517659 source:d:\programas\c++\orbit\orbit_oop\orbit_oopv7\src\inimigo.cpp
+	"Inimigo.h"
+
+1416806774 source:d:\programas\c++\orbit\orbit_oop\orbit_oopv7\src\intro.cpp
+	"Intro.h"
+
+1417081926 source:d:\programas\c++\orbit\orbit_oop\orbit_oopv7\src\jogoprincipal.cpp
+	<iostream>
+	"Headers.h"
+	"Game.h"
+
+1417519149 source:d:\programas\c++\orbit\orbit_oop\orbit_oopv7\src\menuprincipal.cpp
+	"MenuPrincipal.h"
+
+1417519936 source:d:\programas\c++\orbit\orbit_oop\orbit_oopv7\src\nave.cpp
+	"Nave.h"
+
+1417513212 source:d:\programas\c++\orbit\orbit_oop\orbit_oopv7\src\planeta.cpp
+	"Planeta.h"
+
+1417516880 source:d:\programas\c++\orbit\orbit_oop\orbit_oopv7\src\primeirafase.cpp
+	"PrimeiraFase.h"
+	"Boss.h"
+
+1417516311 d:\programas\c++\orbit\orbit_oop\orbit_oopv7\include\boss.h
+	"GameObject.h"
+	"Game.h"
+	"Headers.h"
+	"Estruturas.h"
+	"Inimigo.h"
+
+1416351066 source:d:\programas\c++\orbit\orbit_oop\orbit_oopv7\src\timer.cpp
+	"Timer.h"
+
+1417514211 source:d:\programas\c++\orbit\orbit_oop\orbit_oopv7\src\tiro.cpp
+	"Tiro.h"
+
+1417520102 source:d:\programas\c++\orbit\orbit_oop\orbit_oopv7\src\boss.cpp
+	"Boss.h"
+
+1417520436 source:d:\programas\c++\orbit\orbit_oop\orbit_oopv7\src\game.cpp
+	"Game.h"
+
+1417516504 source:c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\src\boss.cpp
+	"Boss.h"
+
+1417512712 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\include\boss.h
+	"GameObject.h"
+	"Game.h"
+	"Headers.h"
+	"Estruturas.h"
+	"Inimigo.h"
+
+1417509136 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\include\gameobject.h
+	"Headers.h"
+	"Estruturas.h"
+
+1417542232 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\include\headers.h
+	"SDL/SDL.h"
+	"SDL/SDL_gfxPrimitives.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_rotozoom.h"
+	<iostream>
+	<math.h>
+	<fstream>
+	"CORES.h"
+
+1416846676 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\include\cores.h
+
+1417516920 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\include\estruturas.h
+	"Headers.h"
+	"Timer.h"
+
+1416701812 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\include\timer.h
+	"Headers.h"
+
+1417516900 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\include\game.h
+	"Estruturas.h"
+	"Fase.h"
+	"PrimeiraFase.h"
+	"FaseMenu.h"
+	"MenuPrincipal.h"
+	"FaseMorte.h"
+	"Intro.h"
+	"Configuracoes.h"
+	"Nave.h"
+	"Tiro.h"
+	"Inimigo.h"
+
+1417516098 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\include\fase.h
+	"Headers.h"
+	"GameObject.h"
+
+1417513282 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\include\primeirafase.h
+	"Headers.h"
+	"Fase.h"
+	"Game.h"
+	"Nave.h"
+	"Inimigo.h"
+	"Planeta.h"
+	"GameObject.h"
+
+1417541458 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\include\nave.h
+	"Headers.h"
+	"GameObject.h"
+	"Estruturas.h"
+	"Timer.h"
+	"Game.h"
+	"Tiro.h"
+
+1417510320 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\include\tiro.h
+	"Headers.h"
+	"GameObject.h"
+	"Game.h"
+
+1417503824 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\include\inimigo.h
+	"Headers.h"
+	"GameObject.h"
+	"Estruturas.h"
+	"Tiro.h"
+	"Game.h"
+
+1417509618 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\include\planeta.h
+	"Headers.h"
+	"GameObject.h"
+	"Game.h"
+
+1417500478 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\include\fasemenu.h
+	"Headers.h"
+	"Fase.h"
+	"Game.h"
+
+1417506656 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\include\menuprincipal.h
+	"Headers.h"
+	"Game.h"
+	"Timer.h"
+	"Nave.h"
+
+1417502588 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\include\fasemorte.h
+	"Headers.h"
+	"Fase.h"
+	"Game.h"
+
+1416803036 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\include\intro.h
+	"Headers.h"
+	"Fase.h"
+	"Game.h"
+
+1416848862 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\include\configuracoes.h
+	"Fase.h"
+	"Game.h"
+
+1417078282 source:c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\src\configuracoes.cpp
+	"Configuracoes.h"
+
+1417515062 source:c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\src\fase.cpp
+	"Fase.h"
+	"Game.h"
+
+1417499708 source:c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\src\fasemenu.cpp
+	"FaseMenu.h"
+
+1417500538 source:c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\src\fasemorte.cpp
+	"FaseMorte.h"
+
+1417509172 source:c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\src\gameobject.cpp
+	"GameObject.h"
+	"Game.h"
+
+1416803174 source:c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\src\intro.cpp
+	"Intro.h"
+
+1417078326 source:c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\src\jogoprincipal.cpp
+	<iostream>
+	"Headers.h"
+	"Game.h"
+
+1417515550 source:c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\src\menuprincipal.cpp
+	"MenuPrincipal.h"
+
+1417509614 source:c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\src\planeta.cpp
+	"Planeta.h"
+
+1417513282 source:c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\src\primeirafase.cpp
+	"PrimeiraFase.h"
+	"Boss.h"
+
+1416347466 source:c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\src\timer.cpp
+	"Timer.h"
+
+1417510612 source:c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\src\tiro.cpp
+	"Tiro.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110988 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_platform.h
+
+1326110994 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326111000 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\begin_code.h
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\close_code.h
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_keysym.h
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+994165436 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_gfxprimitives.h
+	<math.h>
+	<SDL.h>
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110988 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_platform.h
+
+1326110994 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326111000 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\begin_code.h
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\close_code.h
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_keysym.h
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325799634 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1006222836 c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\sdl\sdl\sdl_rotozoom.h
+	<math.h>
+	"SDL.h"
+
+1417541340 source:c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\src\game.cpp
+	"Game.h"
+
+1417541140 source:c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\src\inimigo.cpp
+	"Inimigo.h"
+
+1417543110 source:c:\users\pcgames\desktop\orbit_oop\orbit_oopv7\src\nave.cpp
+	"Nave.h"
+
+1417545355 source:c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\src\fase.cpp
+	"Fase.h"
+	"Game.h"
+
+1417553669 c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\include\fase.h
+	"Headers.h"
+	"GameObject.h"
+
+1417553654 c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\include\headers.h
+	"SDL/SDL.h"
+	"SDL/SDL_gfxPrimitives.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_rotozoom.h"
+	<iostream>
+	<math.h>
+	<fstream>
+	"CORES.h"
+
+1417547901 c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\include\cores.h
+
+1417545354 c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\include\gameobject.h
+	"Headers.h"
+	"Estruturas.h"
+
+1417549541 c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\include\estruturas.h
+	"Headers.h"
+	"Timer.h"
+
+1417545354 c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\include\timer.h
+	"Headers.h"
+
+1417551181 c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\include\game.h
+	"Estruturas.h"
+	"Fase.h"
+	"PrimeiraFase.h"
+	"FaseMenu.h"
+	"MenuPrincipal.h"
+	"FaseMorte.h"
+	"Configuracoes.h"
+	"Nave.h"
+	"Tiro.h"
+	"Inimigo.h"
+
+1417545354 c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\include\primeirafase.h
+	"Headers.h"
+	"Fase.h"
+	"Game.h"
+	"Nave.h"
+	"Inimigo.h"
+	"Planeta.h"
+	"GameObject.h"
+
+1417545354 c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\include\nave.h
+	"Headers.h"
+	"GameObject.h"
+	"Estruturas.h"
+	"Timer.h"
+	"Game.h"
+	"Tiro.h"
+
+1417545354 c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\include\tiro.h
+	"Headers.h"
+	"GameObject.h"
+	"Game.h"
+
+1417545354 c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\include\inimigo.h
+	"Headers.h"
+	"GameObject.h"
+	"Estruturas.h"
+	"Tiro.h"
+	"Game.h"
+
+1417545354 c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\include\planeta.h
+	"Headers.h"
+	"GameObject.h"
+	"Game.h"
+
+1417545354 c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\include\fasemenu.h
+	"Headers.h"
+	"Fase.h"
+	"Game.h"
+
+1417545354 c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\include\menuprincipal.h
+	"Headers.h"
+	"Game.h"
+	"Timer.h"
+	"Nave.h"
+
+1417551941 c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\include\fasemorte.h
+	"Headers.h"
+	"Fase.h"
+	"Game.h"
+
+1417545354 c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\include\intro.h
+	"Headers.h"
+	"Fase.h"
+	"Game.h"
+
+1417548858 c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\include\configuracoes.h
+	"Fase.h"
+	"Game.h"
+	"Estruturas.h"
+
+1417552135 source:c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\src\fasemenu.cpp
+	"FaseMenu.h"
+
+1417552000 source:c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\src\fasemorte.cpp
+	"FaseMorte.h"
+
+1417551178 source:c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\src\game.cpp
+	"Game.h"
+
+1417553841 source:c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\src\gameobject.cpp
+	"GameObject.h"
+	"Game.h"
+
+1417545355 source:c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\src\inimigo.cpp
+	"Inimigo.h"
+
+1417545355 source:c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\src\boss.cpp
+	"Boss.h"
+
+1417545354 c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\include\boss.h
+	"GameObject.h"
+	"Game.h"
+	"Headers.h"
+	"Estruturas.h"
+	"Inimigo.h"
+
+1417550144 source:c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\src\configuracoes.cpp
+	"Configuracoes.h"
+
+1417545356 source:c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\src\intro.cpp
+	"Intro.h"
+
+1417545356 source:c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\src\jogoprincipal.cpp
+	<iostream>
+	"Headers.h"
+	"Game.h"
+
+1417553774 source:c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\src\menuprincipal.cpp
+	"MenuPrincipal.h"
+
+1417553953 source:c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\src\nave.cpp
+	"Nave.h"
+
+1417545356 source:c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\src\planeta.cpp
+	"Planeta.h"
+
+1417552548 source:c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\src\primeirafase.cpp
+	"PrimeiraFase.h"
+	"Boss.h"
+
+1417545356 source:c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\src\timer.cpp
+	"Timer.h"
+
+1417551850 source:c:\users\senac2012.senacedu\desktop\orbit_oop\orbit_oopv7\src\tiro.cpp
+	"Tiro.h"
+

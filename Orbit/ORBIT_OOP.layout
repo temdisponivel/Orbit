@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="src\Configuracoes.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4174" topLine="146" />
+		</Cursor>
+	</File>
+	<File name="src\Fase.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="37" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Boss.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="779" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\FaseMorte.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4632" topLine="123" />
+		</Cursor>
+	</File>
+	<File name="src\Game.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="27839" topLine="877" />
+		</Cursor>
+	</File>
+	<File name="src\GameObject.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7307" topLine="286" />
+		</Cursor>
+	</File>
+	<File name="include\FaseMenu.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="334" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Nave.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1938" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="include\Fase.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5161" topLine="160" />
+		</Cursor>
+	</File>
+	<File name="src\FaseMenu.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="815" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="include\Nave.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1475" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="src\Planeta.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1967" topLine="49" />
+		</Cursor>
+	</File>
+	<File name="include\Planeta.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="659" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Inimigo.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2569" topLine="56" />
+		</Cursor>
+	</File>
+	<File name="src\Tiro.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="280" topLine="82" />
+		</Cursor>
+	</File>
+	<File name="include\FaseMorte.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="622" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\CORES.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="70" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Configuracoes.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="522" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Game.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1693" topLine="38" />
+		</Cursor>
+	</File>
+	<File name="include\Inimigo.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1054" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\JogoPrincipal.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="319" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Headers.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="115" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\MenuPrincipal.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1314" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\MenuPrincipal.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="505" topLine="20" />
+		</Cursor>
+	</File>
+	<File name="src\Timer.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="680" topLine="30" />
+		</Cursor>
+	</File>
+	<File name="include\PrimeiraFase.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="520" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Estruturas.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9161" topLine="392" />
+		</Cursor>
+	</File>
+	<File name="include\GameObject.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1701" topLine="44" />
+		</Cursor>
+	</File>
+	<File name="src\Boss.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4476" topLine="108" />
+		</Cursor>
+	</File>
+	<File name="include\Timer.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="31" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\PrimeiraFase.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="118" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="include\Tiro.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="488" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
